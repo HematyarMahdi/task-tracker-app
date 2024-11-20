@@ -63,3 +63,16 @@ Clone the project to your local machine:
 ```bash
 git clone https://github.com/HematyarMahdi/task-tracker-app.git
 cd task-tracker-app
+
+cd backend
+npm install
+```
+### 3. Install Frontend Dependencies
+
+Navigate to the frontend directory and install the necessary dependencies:
+
+```bash
+cd ../frontend
+npm install
+```
+### 4. Set Up SQLite Database (Backend)
